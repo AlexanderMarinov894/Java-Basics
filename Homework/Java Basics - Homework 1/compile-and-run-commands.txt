@@ -1,0 +1,9 @@
+==========================
+OS: Windows 7 Ultimate SP1
+==========================
+
+1. F:
+2. cd F:\JAVA\Homework\Java Basics - Homework 1\src
+3. dir
+4. javac SumTwoNumbers.java
+5. java SumTwoNumbers
